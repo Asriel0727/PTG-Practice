@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: aa3614b6a521f024da39df7d721bb9d9, type: 3}
+  m_Name: Party_1
+  m_EditorClassIdentifier: 
+  memberBattleVisualPrefab: {fileID: 8937249974797863383, guid: 245e7612596ad5442ba46f2eb4e4b64d, type: 3}
+  memberName: "\u5931\u667A\u7684\u535A\u58EB"
+  startingLevel: 1
+  baseHealth: 40
+  baseStr: 2
+  baseInitiative: 5
